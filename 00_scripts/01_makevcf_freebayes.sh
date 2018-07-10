@@ -34,7 +34,7 @@ time freebayes -f $ref \
    		--no-complex \
 		--min-coverage $minCOV \
                 --genotype-qualities \
-                --bam-list ${data} \
+                --bam-list 01_info_files/${data} \
                 --vcf ${outdir}/${tag}.vcf 
 echo "Running Freebayes on ${data} samples done."
 
