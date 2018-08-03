@@ -1,6 +1,6 @@
 # sibship_SNPpanel
 
-Sibship reconstruction from SNP panel genotyping using Sequoia R package
+A sibship reconstruction from SNP panel genotyping using Sequoia R package
 
 ## Warning
 
